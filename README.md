@@ -117,16 +117,6 @@ object AmirMohammad : Developer() {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amir-yazdanmanesh&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
