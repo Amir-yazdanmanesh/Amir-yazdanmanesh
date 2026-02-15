@@ -100,23 +100,6 @@ object AmirMohammad : Developer() {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amir-yazdanmanesh&repo=NewsAppCleanArch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=FFFFFF)](https://github.com/Amir-yazdanmanesh/NewsAppCleanArch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amir-yazdanmanesh&repo=Accessibility-Service-Browser-URL-Filter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=FFFFFF)](https://github.com/Amir-yazdanmanesh/Accessibility-Service-Browser-URL-Filter)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amir-yazdanmanesh&repo=Bluetooth-Low-Energy-Terminal-Android-BLE-Library&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=FFFFFF)](https://github.com/Amir-yazdanmanesh/Bluetooth-Low-Energy-Terminal-Android-BLE-Library)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amir-yazdanmanesh&repo=Android-ProfessionalWebView&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=FFFFFF)](https://github.com/Amir-yazdanmanesh/Android-ProfessionalWebView)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amir-yazdanmanesh&repo=flutter_clean_architecture&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=FFFFFF)](https://github.com/Amir-yazdanmanesh/flutter_clean_architecture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amir-yazdanmanesh&repo=AndroidChart&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=FFFFFF)](https://github.com/Amir-yazdanmanesh/AndroidChart)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
