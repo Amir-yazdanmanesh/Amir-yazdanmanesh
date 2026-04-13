@@ -1,7 +1,12 @@
 <div align="center">
-  
+
 # Hey there! 👋 I'm AmirMohammad Yazdanmanesh
 
+> ⚠️ **Notice:**  
+> Due to ongoing internet restrictions in my region, I have limited access to GitHub and may be temporarily inactive.  
+> I will resume regular activity as soon as connectivity is restored.
+
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&random=false&width=600&lines=Senior+Android+Developer;Clean+Architecture+Enthusiast;Kotlin+%26+Java+Expert;Building+Scalable+Mobile+Apps)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
